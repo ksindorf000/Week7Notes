@@ -10,6 +10,7 @@ namespace Day1API_Client
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Welcome to Star Wars API!");
         }
     }
 }
