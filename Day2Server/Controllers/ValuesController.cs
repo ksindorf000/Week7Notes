@@ -12,7 +12,7 @@ namespace Day2Server.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "value1", "value2", "Hand Sanitizer" };
         }
 
         // GET api/values/5
